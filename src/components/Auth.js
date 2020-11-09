@@ -1,5 +1,5 @@
 import React from 'react';
-
+//mislis da ti je keva stvarno kurva
 import Card from './UI/Card';
 import './Auth.css';
 
